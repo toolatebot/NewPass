@@ -107,5 +107,4 @@
     <string name="password_cannot_be_empty">Le mot de passe ne peut pas être vide !</string>
     <string name="report_an_issue_securely">Signaler un problème</string>
     <string name="website">Site web</string>
-
 </resources>
