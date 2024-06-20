@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="unlock_newpass_button_text">[NewPass\'in kilidini aç]</string>
     <string name="create_password_button_text">[Şifre oluştur]</string>
