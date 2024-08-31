@@ -36,7 +36,7 @@
     <string name="settings_contact_me">联系我</string>
     <string name="settings_change_language">更改语言</string>
     <string name="settings_dark_theme">暗色主题</string>
-    <string name="settings_github">GitHub 存储库</string>
+    <string name="settings_github">GitHub 仓库</string>
     <string name="update_update">更新</string>
     <string name="update_name">名称</string>
     <string name="update_email">电子邮件</string>
@@ -109,5 +109,4 @@
     <string name="password_cannot_be_empty">密码不能为空！</string>
     <string name="report_an_issue_securely">安全报告问题</string>
     <string name="website">网站</string>
-
 </resources>
