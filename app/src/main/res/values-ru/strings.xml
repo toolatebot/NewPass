@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="unlock_newpass_button_text">[разблокировать NewPass]</string>
     <string name="create_password_button_text">[создать пароль]</string>
@@ -52,7 +53,7 @@
     <string name="dbhelper_failed_to_delete">Не удалось удалить.</string>
     <string name="dbhelper_successfully_deleted">Удалено успешно.</string>
     <string name="generate_text_copied_to_clipboard">Текст  скопирован в буфер обмена</string>
-    <string name="settings_share_text">Unlock a world of security with NewPass – your ultimate password guardian. Explore it now: https://github.com/6eero/NewPass/releases</string>
+    <string name="settings_share_text">Откройте для себя мир безопасности с NewPass - ваш хранитель паролей. Познакомьтесь прямо сейчас: https://github.com/6eero/newpass/releases</string>
     <string name="text_copied_to_clipboard">Текст  скопирован в буфер обмена</string>
     <string name="languagedialog_select_your_choice">Выберите язык</string>
     <string name="cancel">Назад</string>
