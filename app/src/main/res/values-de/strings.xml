@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="create_password_button_text">[Passwort erstellen]</string>
-    <string name="welcome_newpass_text">Willkommen bei
-\nNewPass!</string>
+    <string name="welcome_newpass_text">Willkommen bei\nNewPass!</string>
     <string name="login_text">Text</string>
     <string name="login_password">Passwort</string>
     <string name="add_add">Hinzufügen</string>
@@ -17,8 +16,7 @@
     <string name="generate_special_example">[?#%]</string>
     <string name="generate_number">Ziffern</string>
     <string name="generate_number_example">[123]</string>
-    <string name="main_saved_password">Passwort
-\ngespeichert</string>
+    <string name="main_saved_password">Passwort\ngespeichert</string>
     <string name="main__btn_add">[hinzufügen]</string>
     <string name="main_btn_generate">[erzeugen]</string>
     <string name="main_all">Alle</string>
@@ -38,8 +36,7 @@
     <string name="update_email_copied_to_the_clipboard">E-Mail in die Zwischenablage kopiert</string>
     <string name="update_no_data">Keine Daten.</string>
     <string name="unlock_newpass_button_text">[NewPass entsperren]</string>
-    <string name="welcome_back_newpass_text">Willkommen zurück
-\nbei NewPass!</string>
+    <string name="welcome_back_newpass_text">Willkommen zurück\nbei NewPass!</string>
     <string name="generate_uppercase">Großbuchstaben</string>
     <string name="update_btn_delete">[löschen]</string>
     <string name="update_password_copied_to_the_clipboard">Passwort in die Zwischenablage kopiert</string>
