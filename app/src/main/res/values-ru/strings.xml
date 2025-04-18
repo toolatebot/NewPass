@@ -52,9 +52,9 @@
     <string name="dbhelper_updated_successfully">Обновлено успешно!</string>
     <string name="dbhelper_failed_to_delete">Не удалось удалить.</string>
     <string name="dbhelper_successfully_deleted">Удалено успешно.</string>
-    <string name="generate_text_copied_to_clipboard">Текст  скопирован в буфер обмена</string>
+    <string name="generate_text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="settings_share_text">Откройте для себя мир безопасности с NewPass - ваш хранитель паролей. Познакомьтесь прямо сейчас: https://github.com/6eero/newpass/releases</string>
-    <string name="text_copied_to_clipboard">Текст  скопирован в буфер обмена</string>
+    <string name="text_copied_to_clipboard">Текст скопирован в буфер обмена</string>
     <string name="languagedialog_select_your_choice">Выберите язык</string>
     <string name="cancel">Назад</string>
     <string name="this_account_already_exists">Такой аккаунт уже существует!</string>
