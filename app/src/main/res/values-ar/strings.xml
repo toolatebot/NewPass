@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="login_button">TextView_button</string>
+    <string name="login_button">زر عرض النص</string>
     <string name="generate_abc_example">[ABC]</string>
     <string name="generate_special_example">[?#%]</string>
     <string name="generate_number_example">[123]</string>
@@ -8,7 +8,7 @@
     <string name="incorrect_password_or_database_is_corrupt">كلمة مرور غير صحيحة أو قاعدة البيانات تالفة.</string>
     <string name="database_password_changed_successfully">تم تغيير كلمة مرور قاعدة البيانات بنجاح!</string>
     <string name="no_database_found_at">"لم يتم العثور على قاعدة بيانات في: "</string>
-    <string name="database_successfully_exported_to">"تم تصدير قاعدة البيانات بنجاح إلى: "</string>
+    <string name="database_successfully_exported_to">تم تصدير قاعدة البيانات بنجاح إلى:</string>
     <string name="export_failed">"فشل التصدير: "</string>
     <string name="database_imported_successfully">تم استيراد قاعدة البيانات بنجاح!</string>
     <string name="failed_to_import_database">فشل استيراد قاعدة البيانات</string>
@@ -19,7 +19,7 @@
     <string name="enter_password">أدخل كلمة مرور قاعدة البيانات</string>
     <string name="error_importing_database">خطأ في استيراد قاعدة البيانات</string>
     <string name="ok">حسنًا</string>
-    <string name="unlock_newpass_button_text">[فتح NewPass]</string>
+    <string name="unlock_newpass_button_text">[افتح NewPass]</string>
     <string name="create_password_button_text">[إنشاء كلمة مرور]</string>
     <string name="welcome_newpass_text">مرحبًا بك في\nNewPass!</string>
     <string name="welcome_back_newpass_text">مرحبًا بعودتك\nإلى NewPass!</string>
@@ -48,7 +48,7 @@
     <string name="settings_contact_me">اتصل بي</string>
     <string name="settings_change_language">تغيير اللغة</string>
     <string name="settings_dark_theme">المظهر الداكن</string>
-    <string name="settings_github">مستودع GitHub</string>
+    <string name="settings_github">مستودع جيثب</string>
     <string name="update_update">تحديث</string>
     <string name="update_name">الاسم</string>
     <string name="update_email">البريد الإلكتروني</string>
