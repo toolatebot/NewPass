@@ -81,7 +81,7 @@
     <string name="incorrect_password_or_database_is_corrupt">Mot de passe incorrect ou base de données corrompue.</string>
     <string name="database_password_changed_successfully">Mot de passe de la base de données changé avec succès!</string>
     <string name="no_database_found_at">Aucune base de données trouvée à l\'emplacement suivant:</string>
-    <string name="database_successfully_exported_to">Base de données exportée avec succès vers:</string>
+    <string name="database_successfully_exported_to">Base de données exportée avec succès vers :</string>
     <string name="export_failed">Échec de l\'exportation:</string>
     <string name="database_imported_successfully">Base de données importée avec succès!</string>
     <string name="failed_to_import_database">Impossible d\'importer la base de données</string>
