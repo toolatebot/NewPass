@@ -81,7 +81,7 @@
     <string name="incorrect_password_or_database_is_corrupt">Неверный пароль или база данных повреждена.</string>
     <string name="database_password_changed_successfully">DПароль базы данных успешно изменён!</string>
     <string name="no_database_found_at">"База данных не найдена в: "</string>
-    <string name="database_successfully_exported_to">"База данных успешно экспортирована в: "</string>
+    <string name="database_successfully_exported_to">База данных успешно экспортирована в:</string>
     <string name="export_failed">"Ошибка экспорта: "</string>
     <string name="database_imported_successfully">База данных успешно импортирована!</string>
     <string name="failed_to_import_database">Не удалось импортировать базу данных</string>
