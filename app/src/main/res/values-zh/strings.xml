@@ -81,7 +81,7 @@
     <string name="incorrect_password_or_database_is_corrupt">密码错误或数据库损坏。</string>
     <string name="database_password_changed_successfully">数据库密码已成功更改！</string>
     <string name="no_database_found_at">"未找到数据库： "</string>
-    <string name="database_successfully_exported_to">"数据库成功导出到： "</string>
+    <string name="database_successfully_exported_to">数据库成功导出到：</string>
     <string name="export_failed">"导出失败： "</string>
     <string name="database_imported_successfully">数据库已成功导入！</string>
     <string name="failed_to_import_database">无法导入数据库</string>
